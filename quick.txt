@@ -1,3 +1,4 @@
 The quick brown fox jumps over the lazy dog.
 But, the dog should not be so lazy.
 Cats are better anyway.
+The dog should be more like a cat!
